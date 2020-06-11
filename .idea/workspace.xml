@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e821c72f-cd4f-4a86-bbb9-892ad2c8a274" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-app/src/ListItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-app/src/ListItems.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1d1ybZScb17KekgTPiIGnQO6IGH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Flask server.flask-api">
+    <configuration name="db_config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask-api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask-api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="to_do" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask-api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/to_do.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask-api" type="Python.FlaskServer">
+      <module name="flask-api" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.db_functions" />
+        <item itemvalue="Python.db_config" />
+        <item itemvalue="Python.to_do" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e821c72f-cd4f-4a86-bbb9-892ad2c8a274" name="Default Changelist" comment="" />
+      <created>1591606965628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591606965628</updated>
+      <workItem from="1591606967621" duration="10828000" />
+      <workItem from="1591694389529" duration="1980000" />
+      <workItem from="1591719187276" duration="1696000" />
+      <workItem from="1591721309652" duration="735000" />
+      <workItem from="1591800027733" duration="7408000" />
+      <workItem from="1591869572831" duration="4926000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial-commit">
+      <created>1591721522625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591721522625</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added MongoDB Support">
+      <created>1591873315274</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591873315274</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial-commit" />
+    <MESSAGE value="Added MongoDB Support" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added MongoDB Support" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="16" key="CommitChangelistDialog2" timestamp="1591873314415">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="406" y="16" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1591873314415" />
+    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1591873592244">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1591873592244" />
+    <state x="638" y="316" key="Github.ShareDialog" timestamp="1591800866572">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="638" y="316" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1591800866572" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1591874807369">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591874807369" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1591874807369">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591874807369" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1591874807369">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591874807369" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1591874807369">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591874807369" />
+    <state x="279" y="63" key="SettingsEditor" timestamp="1591804843840">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="279" y="63" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591804843840" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1591873323868">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1591873323868" />
+    <state x="477" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1591800035398">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="477" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1591800035398" />
+    <state x="425" y="71" width="672" height="676" key="search.everywhere.popup" timestamp="1591810350546">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="71" width="672" height="676" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1591810350546" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flask_api$flask_api.coverage" NAME="flask-api Coverage Results" MODIFIED="1591872395886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flask_api$db_config.coverage" NAME="db_config Coverage Results" MODIFIED="1591804873796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_api$db_functions.coverage" NAME="db_functions Coverage Results" MODIFIED="1591871177322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_api$to_do.coverage" NAME="to_do Coverage Results" MODIFIED="1591610823004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
